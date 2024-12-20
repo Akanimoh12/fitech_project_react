@@ -33,7 +33,7 @@ Ensure you have the following installed:
 
 ### Installation
 1. Clone the repository by:
-   git clone https://github.com/your-username/dog-gallery-app.git
+   git clone https://github.com/Akanimoh12/fitech_project_react.git
    cd 
 2. Run dependencies by:
    npm install
